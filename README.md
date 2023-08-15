@@ -5,3 +5,5 @@ Assuntos abordados nesse projeto:
 - Banco de dados (SQL lite)
 
 Deploy do projeto: https://labeddit-backend-lucas.onrender.com
+
+repo do projeto front-end: https://github.com/LucasBonfanti/Labeddit_Frontend
